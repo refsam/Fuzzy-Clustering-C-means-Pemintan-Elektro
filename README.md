@@ -1,1 +1,2 @@
-# Fuzzy-Clustering-C-means-Pemintan-Elektro
+# Fuzzy-Clustering-C-means-Peminatan-Elektro
+My task for Fuzzy Class in Universitas Negeri Jakarta
